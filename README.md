@@ -1,4 +1,4 @@
-# RPA Testing (CMPG323)
+# Data Visualisation (CMPG323)
 
 # Usage
 This is a Power BI application to visualise sales data for EcoPower Logistics. There are numerous tables with different insights.
