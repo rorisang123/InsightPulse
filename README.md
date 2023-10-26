@@ -8,7 +8,7 @@ This is a Power BI application to visualise sales data for EcoPower Logistics. T
 
 Note: If logging in on website, use mynwu account.
 
-<img width="780px" src="Capture.png" alt="screenshot" />
+<img width="780px" src="Capture.PNG" alt="screenshot" />
 
 # Secret Keys
 Sensitive keys haven't been included in the project
