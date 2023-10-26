@@ -60,4 +60,7 @@ Sensitive keys haven't been included in the project
 
 24. Powell, F. (2020). "Enhancing Data Visualization with Augmented Reality." Augmented Reality Journal, 14(2), 59-73.
 
-25. Scott, H. (2019). "Data Visualization for Public Policy Analysis." Policy Analysis Quarterly, 10(3), 65-79.
+25. 
+26. Scott, H. (2019). "Data Visualization for Public Policy Analysis." Policy Analysis Quarterly, 10(3), 65-79.
+
+    [Fin]
