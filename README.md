@@ -1,14 +1,14 @@
 # RPA Testing (CMPG323)
 
 # Usage
-This is RPA Process built on the UiPath platform. It automates CRUD operations from an Excel document into a database interfaced on a azure.
+This is a Power BI application to visualise sales data for EcoPower Logistics. There are numerous tables with different insights.
 
 # How to use
 1. Download the PBIX file and run locally or visit https://app.powerbi.com/groups/me/reports/0c149713-5bcc-4d78-9c7c-e906404c5b0e/ReportSection2?experience=power-bi
 
-Note: If logging in on website
+Note: If logging in on website, use mynwu account.
 
-<img width="780px" src="Capture.jpg" alt="screenshot" />
+<img width="780px" src="Capture.png" alt="screenshot" />
 
 # Secret Keys
 Sensitive keys haven't been included in the project
