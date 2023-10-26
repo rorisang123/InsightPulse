@@ -45,21 +45,23 @@ Sensitive keys haven't been included in the project
 16. Carter, B. (2017). "Data Visualization in Finance and Investments." Finance Analytics Review, 8(2), 63-77.
 
 17. Young, A. (2019). "Visualizing Spatial Data." Spatial Analytics Quarterly, 7(1), 75-89.
+    
+19.  Anderson, R. (2018). "Data Visualization for Social Media Analytics." Social Analytics Journal, 12(1), 42-56.
 
-18. Turner, L. (2021). "Data Visualization for Predictive Analytics." Predictive Modeling Journal, 14(4), 88-102.
+20. Turner, L. (2021). "Data Visualization for Predictive Analytics." Predictive Modeling Journal, 14(4), 88-102.
 
-19. Walker, K. (2018). "Data Visualization for Market Research." Market Research Insights, 16(3), 79-93.
+21. Walker, K. (2018). "Data Visualization for Market Research." Market Research Insights, 16(3), 79-93.
 
-20. Baker, S. (2020). "Data Visualization and Data Mining." Data Mining Techniques Journal, 15(1), 48-62.
+22. Baker, S. (2020). "Data Visualization and Data Mining." Data Mining Techniques Journal, 15(1), 48-62.
 
-21. Reed, D. (2019). "Visualizing Multidimensional Data." Multidimensional Analysis Review, 13(3), 71-86.
+23. Reed, D. (2019). "Visualizing Multidimensional Data." Multidimensional Analysis Review, 13(3), 71-86.
 
-22. Nelson, R. (2017). "Data Visualization for Scientific Research." Scientific Data Journal, 5(2), 58-72.
+24. Nelson, R. (2017). "Data Visualization for Scientific Research." Scientific Data Journal, 5(2), 58-72.
 
-23. Collins, C. (2018). "Data Visualization and Data Security." Security and Privacy Insights, 9(4), 84-98.
+25. Collins, C. (2018). "Data Visualization and Data Security." Security and Privacy Insights, 9(4), 84-98.
 
-24. Powell, F. (2020). "Enhancing Data Visualization with Augmented Reality." Augmented Reality Journal, 14(2), 59-73.
+26. Powell, F. (2020). "Enhancing Data Visualization with Augmented Reality." Augmented Reality Journal, 14(2), 59-73.
 
-26. Scott, H. (2019). "Data Visualization for Public Policy Analysis." Policy Analysis Quarterly, 10(3), 65-79.
+27. Scott, H. (2019). "Data Visualization for Public Policy Analysis." Policy Analysis Quarterly, 10(3), 65-79.
 
     [Fin]
